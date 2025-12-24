@@ -1,0 +1,9 @@
+{
+  "name": "Copy of WinBuz Elite Exchange",
+  "description": "Premium sports exchange and casino platform with real-time digitized UI and high-end aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
